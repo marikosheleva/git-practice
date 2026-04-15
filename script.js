@@ -1,3 +1,6 @@
 function validate() { 
     ... 
 }
+function newFunction() { 
+    ... 
+}
