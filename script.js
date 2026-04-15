@@ -4,3 +4,6 @@ function validate() {
 function newFunction() { 
     ... 
 }
+function newFunction2() { 
+    ... 
+}
